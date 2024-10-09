@@ -15,7 +15,7 @@ This project leverages basic image manipulation techniques and a Convolutional N
 
 ## Captcha Examples 🎯
 
-Here are some CAPTCHA examples that the model solved successfully:
+Here are some CAPTCHA examples that the model solved:
 
 ![Solved CAPTCHA](https://github.com/user-attachments/assets/9185d6a1-c3fe-464d-b451-d3e0d3518ff2)
 
